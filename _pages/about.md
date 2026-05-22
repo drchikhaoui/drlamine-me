@@ -26,18 +26,19 @@ latest_posts:
   enabled: false
 ---
 
-Lamine Chikhaoui is a physician (MD) and epidemiologist-in-training. He is a
-Graduate Research Assistant and MPH Epidemiology candidate at the Florida
-International University Robert Stempel College of Public Health & Social Work
-(expected 2027), where he works on a longitudinal cancer survivorship study
-using wearable sensors, digital biomarkers (heart-rate variability, sleep,
-physical activity), and cognitive screening under Dr. Shanna L. Burke.
+Lamine Chikhaoui is a Family Medicine physician and epidemiologist-in-training.
+He earned his Doctor of Medicine from the University of Medicine of Monastir,
+Tunisia (2024), graduating with First-Class Honours and the Board's
+Congratulations, and is currently a Master of Public Health (Epidemiology)
+candidate at Florida International University's Robert Stempel College of Public
+Health & Social Work (expected June 2027), where he is a Fulbright Scholar and
+University Graduate School Fellow.
 
-He earned his MD from the University of Medicine of Monastir, Tunisia (2024,
-First-Class Honors) and previously served as a Family Medicine resident and
-intern. His research applies established epidemiological and biostatistical
-methods — mixed-effects models, survival analysis, and longitudinal
-approaches — to patient-oriented questions, with a focus on real-world
-evidence (RWE), pharmacoepidemiology, and health economics & outcomes research
-(HEOR). He is a Fulbright Foreign Student Scholar and an FIU University
-Graduate School Fellow.
+As a Graduate Research Assistant at FIU, he supports an IRB-approved
+longitudinal cancer survivorship study — in collaboration with the College of
+Engineering & Computing — that integrates wearable-derived digital biomarkers
+and biological measures, contributing to participant assessment, REDCap data
+management, and epidemiologic analysis. Before his graduate training he spent
+three years (2021–2024) delivering inpatient, outpatient, and emergency care
+across multiple specialties in Tunisia's public teaching hospitals. His
+interests span medical research, data analysis, and applied epidemiology.
