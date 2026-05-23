@@ -5,8 +5,8 @@ title: CV
 nav: true
 nav_order: 3
 cv_pdf: /assets/pdf/Lamine_Chikhaoui_CV.pdf
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_format: jsonresume
+description: Curriculum vitae — Lamine Chikhaoui, MD
 toc:
   sidebar: left
 ---
